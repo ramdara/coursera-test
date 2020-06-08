@@ -1,0 +1,28 @@
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.5em;
+  color: black;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.Chicken,.Beef,.Sushi{
+  font-size: 2em;
+}
+.section{
+  background-color: rgb(199, 195, 195);
+  margin-bottom: 2em;
+}
+.heading{
+    font-size: 3em;
+}
+p{
+    padding:0px 15px;
+}
+#header-nav{
+    background-color: rgb(201, 199, 196);
+}
